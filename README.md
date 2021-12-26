@@ -1,0 +1,1 @@
+# rental-w3template
