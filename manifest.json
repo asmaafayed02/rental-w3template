@@ -1,0 +1,9 @@
+{
+    "short_name": "rentawy",
+    "name":"rental-w3template",
+    "start_url": "index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#EEE",
+    "discription": "rent easy and prefect"
+}
